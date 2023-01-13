@@ -1,6 +1,5 @@
-# metaversus_project
-metaversus clone
+# <a href="https://zingy-douhua-d7222b.netlify.app/">METAVERSUS</a>
 
 
-## Click on play button to see how Website looks like:
+## Click to see how the Website looks like:
 ![](https://github.com/b0n21en5/metaversus_project/blob/main/utils/intro.gif)
